@@ -1,0 +1,13 @@
+0.7.x:
+
+* TODO: Add sudoers support
+
+* TODO: system::files: Added support for processing templates under
+templatedir
+
+* TODO: Add rspec-puppet tests for all classes and defines
+
+Future:
+
+* TODO: Changes to work on other Linux distributions like Ubuntu, Debian and SuSE
+

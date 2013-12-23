@@ -1,0 +1,35 @@
+{
+  "project_page": "https://github.com/ghoneycutt/puppet-module-dnsclient/",
+  "description": "Manage a DNS client's resolver",
+  "summary": "Manage resolver",
+  "types": [
+
+  ],
+  "author": "ghoneycutt",
+  "source": "git://github.com/ghoneycutt/puppet-module-dnsclient.git",
+  "version": "3.0.4",
+  "dependencies": [
+    {
+      "version_requirement": "3.2.x",
+      "name": "puppetlabs/stdlib"
+    }
+  ],
+  "checksums": {
+    "README.markdown": "056081ac2f2e982c1cd7036c7a3a33b1",
+    "Rakefile": "d9b766b15697c5cfbf1352e8effa3f52",
+    "Modulefile": "84c5fdfef115fd06dbb399c153c7d4da",
+    "tests/search.pp": "d821bc02ff226f47b662f296a1d35006",
+    "tests/init.pp": "eea4babb2837cb3e3941aea7a123b855",
+    "CHANGELOG": "348b44ecf7e6226bdc963e59bea81865",
+    "LICENSE": "567e6cc3941d464d60c74d1f4abd5f46",
+    "templates/resolv.conf.erb": "de851d51bcae3d448bac086eb641f981",
+    "manifests/init.pp": "ac75501b0e6c8bd95f4c64ae0a892d2d",
+    "tests/stuff.pp": "e8d813ed1a1ce69cc5de8b9fe0779e01",
+    "tests/domain.pp": "aeefd910ae9b7143c5c0cf7d111beb47",
+    "tests/path.pp": "bc250b80dde80e28fd73ee1e47b13bdd",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "spec/classes/init_spec.rb": "329c07786b11bba6744a840f58ff7d44"
+  },
+  "name": "ghoneycutt-dnsclient",
+  "license": "Apache License, Version 2.0"
+}

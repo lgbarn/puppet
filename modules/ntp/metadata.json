@@ -1,0 +1,32 @@
+{
+  "types": [
+
+  ],
+  "license": "Apache License, Version 2.0",
+  "source": "git.com:erwbgy/puppet-ntp.git",
+  "checksums": {
+    "spec/fixtures/manifests/site.pp": "d41d8cd98f00b204e9800998ecf8427e",
+    "manifests/install.pp": "732509682ce48b3694a15a828938554a",
+    "manifests/service.pp": "86784b57a4c44a0d6521252f70d5eb7a",
+    "spec/spec_helper.rb": "18535ba66940e8f5ca84eef173fc4e36",
+    "templates/changes.erb": "ca0e8db0d6c9ba798716d741353de115",
+    "Modulefile": "c8eb66c3536f3e4d904905181a86d233",
+    "Changelog": "0c1cf9fa02d0a8ab9fb4dfa094296516",
+    "tests/init.pp": "bbefc392832c4f83dd052ac7bbce37a7",
+    "spec/classes/ntp_spec.rb": "ee822018e017d4951af4db5ba7f90b4b",
+    "spec/fixtures/hieradata/common.yaml": "ce01549d0cdf1ce7f37559601c167f53",
+    "README.md": "511e78fb979d01dd1a3c9a3b67a18276",
+    "manifests/config.pp": "c9128ff8b913b8bcce38fc60fdba97a6",
+    "manifests/init.pp": "bf6a977f4f3623da0187d33433e42664",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1"
+  },
+  "description": "Configure and manage the NTP daemon on a Linux hosts",
+  "version": "0.7.2",
+  "project_page": "https://github.com/erwbgy/puppet-ntp",
+  "summary": "configure and manage ntpd",
+  "name": "erwbgy-ntp",
+  "author": "erwbgy",
+  "dependencies": [
+
+  ]
+}

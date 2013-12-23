@@ -1,0 +1,13 @@
+classes:
+  - dnsclient
+
+dnsclient::nameservers:
+  - 10.30.27.110
+  - 10.30.27.111
+  - 10.20.27.11
+
+dnsclient::search:
+  - ux.corp.local
+  - ad.corp.local
+  - trinet.com
+  - gevityhr.com

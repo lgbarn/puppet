@@ -1,0 +1,23 @@
+{
+  "project_page": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "source": "UNKNOWN",
+  "types": [
+
+  ],
+  "description": "UNKNOWN",
+  "version": "0.1.0",
+  "summary": "UNKNOWN",
+  "name": "trinet-role",
+  "author": "trinet",
+  "checksums": {
+    "tests/init.pp": "7c818297cdfc7c9d57f496a5c28c1689",
+    "manifests/init.pp": "898e08ea5e20ec71a7e9401627edcfa6",
+    "README": "9e0323e43ee03187d619d09c869aeef7",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "Modulefile": "28a84a54fb07293899f88d74ffc62050"
+  },
+  "dependencies": [
+
+  ]
+}

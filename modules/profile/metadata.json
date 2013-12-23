@@ -1,0 +1,23 @@
+{
+  "project_page": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "source": "UNKNOWN",
+  "types": [
+
+  ],
+  "description": "UNKNOWN",
+  "version": "0.1.0",
+  "summary": "UNKNOWN",
+  "name": "trinet-profile",
+  "author": "trinet",
+  "checksums": {
+    "tests/init.pp": "459520a3cfc5b7be2bcc0164a655c95a",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "Modulefile": "c74a23c9c2606bcbde1d445aed9f5945",
+    "manifests/init.pp": "1a33533983430ff2deef5b9b198d0014",
+    "README": "44196a54a26a4df8d61e41d20277f855"
+  },
+  "dependencies": [
+
+  ]
+}

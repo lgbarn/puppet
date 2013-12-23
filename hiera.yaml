@@ -1,0 +1,13 @@
+--
+:backends: - yaml
+:logger: console
+:hierarchy:
+  - "%{fqdn}"
+  - "%{::role}"
+  - "%{environment}/%{calling_class}"
+  - "%{environment}"
+  - "%{::location}"
+  - common
+
+:yaml:
+   :datadir: /etc/puppet/hieradata

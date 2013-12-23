@@ -1,0 +1,24 @@
+{
+  "project_page": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "source": "UNKNOWN",
+  "types": [
+
+  ],
+  "description": "UNKNOWN",
+  "version": "0.1.0",
+  "summary": "UNKNOWN",
+  "name": "trinet-custom",
+  "author": "trinet",
+  "checksums": {
+    "Modulefile": "7a88366b39a6a91d90dff8a17b3bad88",
+    "manifests/init.pp": "1a89dea499005d52d86567df2fb1db5e",
+    "tests/init.pp": "e99cde51990f3659c0f2f516560015e8",
+    "README": "d7b82d4432ccda983d1a7b27eec43d88",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "lib/facter/location.rb": "735993fd810744c9c41f239eb8abe6e7"
+  },
+  "dependencies": [
+
+  ]
+}
