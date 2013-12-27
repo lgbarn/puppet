@@ -11,3 +11,6 @@ dnsclient::search:
   - ad.corp.local
   - trinet.com
   - gevityhr.com
+system::ntp::iburst:  'true'
+system::ntp::servers: [ '10.20.27.11' ]
+

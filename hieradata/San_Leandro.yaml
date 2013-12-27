@@ -7,7 +7,13 @@ dnsclient::nameservers:
   - 10.20.27.11
 
 dnsclient::search:
+  - gevityhr.com
   - ux.corp.local
   - ad.corp.local
   - trinet.com
-  - gevityhr.com
+  - trinetgroup.com
+  - soi.com
+  - ambrosegroup.com
+system::ntp::iburst:  'true'
+system::ntp::servers: [ '10.30.27.11' ]
+

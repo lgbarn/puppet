@@ -11,9 +11,9 @@ dnsclient::search:
   - ad.corp.local
   - trinet.com
   - gevityhr.com
+  - soi.com
+  - ambrosegroup.com
 
-lgbarn::test:
-  - ux.corp.local
-  - ad.corp.local
-  - trinet.com
-  - gevityhr.com
+system::ntp::iburst:  'true'
+system::ntp::servers: [ '10.10.27.11' ]
+
