@@ -12,7 +12,7 @@ dnsclient::search:
   - trinet.com
   - gevityhr.com
   - soi.com
-#  - ambrosegroup.com
+  - ambrosegroup.com
 
 system::ntp::iburst:  'true'
 system::ntp::servers: [ '10.10.27.11' ]
