@@ -42,6 +42,6 @@ node "br3partest3.ux.corp.local" {
   }
   include role::app::server
 }
-node "web1" {
-  include role::databasse::server
+node "web1.ux.corp.local" {
+  include role::database::server
 }
