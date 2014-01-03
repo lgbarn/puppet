@@ -3,14 +3,14 @@
 hiera_include('classes')
 
 node default {
-#  if ($role != undef)
-#  {
-#    include "${role}"
-#  }
-#  else
-#  {
-#    include role::base
-#  }
+  if ($role != undef)
+  {
+    include "${role}"
+  }
+  else
+  {
+    include role::base
+  }
 }
 node "br3partest.ux.corp.local" {
     class { 'puppetdb::master::config':
